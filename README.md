@@ -1,5 +1,5 @@
 # AI-Personal-Trainer
-This is Project AI, written in Python. It can count the number of lifts of a person exercising in the video, along with a bar to track how much that person is lifting and lowering the gym dumbbell.
+This is an AI project, written in Python. It can count the number of lifts of a person exercising in the video, along with a bar to track how much that person is lifting and lowering the gym dumbbell.
 
 # Dependencies
 Please install those all the required dependencies
